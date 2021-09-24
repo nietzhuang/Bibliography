@@ -7,4 +7,8 @@
 
 (2020) Efficient Processing of Deep Neural Networks ([link](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1530))
 
-(2020) A Survey of Accelerator Architectures for Deep Neural Networks ([link](https://www.sciencedirect.com/science/article/pii/S2095809919306356))
+(2020) A Survey of Accelerator Architectures for Deep Neural Networks ([link] (https://www.sciencedirect.com/science/article/pii/S2095809919306356)
+
+(2020) Challenges in Energy-Efficient Deep Neural Network Training With FPGA ([link](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w28/Tao_Challenges_in_Energy-Efficient_Deep_Neural_Network_Training_With_FPGA_CVPRW_2020_paper.pdf))
+
+(2021) A Survey of Algorithmic and Hardware Optimization Techniques for Vision Convolutional Neural Networks on FPGAs ([link](https://link.springer.com/article/10.1007/s11063-021-10458-1))
