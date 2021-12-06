@@ -4,12 +4,12 @@ They mostly aim to Machine Learning, DNN Accelerators, Computer Science and Hard
 
 
 * Books
-    - Verilog HDL
-    - DNN Accelerators
+    * Verilog HDL
+    * DNN Accelerators
 
 * Papers
-   - Deep Nerural Networks
-       - Machine Learning Hardware Design
-       - Neural Network Models 
+   * Deep Nerural Networks
+       * Machine Learning Hardware Design
+       * Neural Network Models 
 
 
