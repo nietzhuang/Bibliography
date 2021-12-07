@@ -1,7 +1,7 @@
 
 # List of paper for Verilog HDL
 
-(1997) VERILOG CODING STYLES FOR IMPROVED SIMULATION ([link](EFFICIENCYhttp://www.sunburst-design.com/papers/CummingsICU1997_VerilogCodingEfficiency.pdf))
+(1997) VERILOG CODING STYLES FOR IMPROVED SIMULATION ([link](http://www.sunburst-design.com/papers/CummingsICU1997_VerilogCodingEfficiency.pdf))
 
 (1998) State Machine Coding Styles for Synthesis ([link](http://www.sunburst-design.com/papers/CummingsSNUG1998SJ_FSM.pdf))
 
