@@ -11,4 +11,6 @@
 
 (2020) A 2.6 TOPS/W 16-Bit Fixed-Point Convolutional Neural Network Learning Processor in 65-nm CMOS ([link](https://ieeexplore.ieee.org/document/8907458))
 
+(2020) FPRaker: A Processing Element For Accelerating Neural Network Training ([link](https://arxiv.org/abs/2010.08065))
+
 (2021) RaPiD: AI Accelerator for Ultra-low Precision Training and Inference ([link](https://ieeexplore.ieee.org/document/9499865))
