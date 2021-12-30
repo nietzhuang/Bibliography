@@ -8,3 +8,5 @@
 (2016) Eyeriss: A Spatial Architecture for Energy-Efﬁcient Dataﬂow for Convolutional Neural Networks([link](https://www.eecg.utoronto.ca/~moshovos/000/lib/exe/fetch.php?media=wiki:aca2019:eyeriss-isca.pdf))
 
 (2017) Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks([link](https://ieeexplore.ieee.org/document/7738524))
+
+(2017 )FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks([link](https://ieeexplore.ieee.org/document/7920855))
