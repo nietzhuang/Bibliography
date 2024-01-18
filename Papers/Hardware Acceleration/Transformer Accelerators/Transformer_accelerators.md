@@ -5,7 +5,7 @@
 
 (2022) Energon: Towards Efficient Acceleration of Transformers Using Dynamic Sparse Attention ([link](https://arxiv.org/pdf/2110.09310.pdf))
 
-(2023) Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference ([link](Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference))
+(2023) Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference ([link](https://arxiv.org/pdf/2312.15159.pdf))
 
 (2023) FLAT: An Optimized Dataflow forMitigating Attention Bottlenecks ([link](https://people.csail.mit.edu/suvinay/pubs/2023.flat.asplos.pdf))
 
